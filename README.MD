@@ -57,3 +57,6 @@ Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu
 <img src="./src/images/clone-5.jpeg" width="136">
 <img src="./src/images/clone-6.jpeg" width="136">
 </p>
+
+---
+<h1 align="center">💻 Desenvolvido Por: Gilberto Júnior</h1>
